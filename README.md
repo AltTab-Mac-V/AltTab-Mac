@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://alt-tab-macos.netlify.app/public/assets/images/alt-tab-macos-icon.png" width="100" alt="AltTab icon"/>
+  <img src="https://blog.local-c.com/wp-content/uploads/2024/11/alttab.png" width="100" alt="AltTab icon"/>
 </p>
 
 <h1 align="center">AltTab for Mac</h1>
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://alt-tab-macos.netlify.app/public/assets/images/demo/1.jpg" alt="AltTab — macOS window switching screenshot" width="780"/>
+  <img src="https://onmymenubar.app/_astro/hero.CbvMIYSz.jpg" alt="AltTab — macOS window switching screenshot" width="780"/>
 </p>
 
 ---
